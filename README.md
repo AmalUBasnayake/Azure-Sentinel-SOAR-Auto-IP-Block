@@ -237,8 +237,8 @@ README.md
 
 # 🔗 Connect
 
-LinkedIn:   
-GitHub: https://github.com/AmalUBasnayake
+LinkedIn: https://www.linkedin.com/in/amal-udayanga-basnayake/  
+GitHub:   https://github.com/AmalUBasnayake
 
 ---
 
