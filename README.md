@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/banner.png" width="100%" />
+</p>
+
+<p align="center">
   <h1 align="center">🛡️ Enterprise SOAR Automation</h1>
   <h3 align="center">Microsoft Sentinel → Azure NSG Automated Threat Containment</h3>
 </p>
